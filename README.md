@@ -15,8 +15,8 @@ This app predicts the risk of heart stroke using a **K-Nearest Neighbors (KNN) m
 - Clean UI with instant feedback
 
 **Screenshot:**
-![App 1 Screenshot](a1.png)
-![App 2 Screenshot](a11.png)
+![App 1 Screenshot](a1.jpg)
+![App 2 Screenshot](a11.jpg)
 
 **Usage:**
 
