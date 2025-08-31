@@ -41,8 +41,12 @@ This app expands on App 1 by providing **visual insights** into the prediction, 
 - Responsive design
 
 **Screenshot:**
-
-
+![App 3 Screenshot](b1.jpg)
+![App 4 Screenshot](b11.jpg)
+![App 5 Screenshot](c1.jpg)
+![App 6 Screenshot](c11.jpg)
+![App 7 Screenshot](d1.jpg)
+![App 8 Screenshot](d11.jpg)
 **Usage:**
 
 1. Run the app using Streamlit.  
